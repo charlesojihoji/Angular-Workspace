@@ -1,0 +1,8 @@
+.content-box{
+    width: 600px;
+    min-height: 275px;
+    max-height: 400px;
+    overflow: scroll;
+    border: 1px solid blue;
+    margin-top: 20px;
+}
